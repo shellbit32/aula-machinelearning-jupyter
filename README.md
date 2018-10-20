@@ -6,14 +6,14 @@ Material da aula dada por mim no dia 19/10/18 durante a aula de Mineração de D
 
 [Open Data Portals](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
 
-https://www.kaggle.com/
+[Kaggle (como uma rede social para cientistas de dados)](https://www.kaggle.com/)
 
-https://archive.ics.uci.edu/ml/index.php
+[UCI Machine Learning](https://archive.ics.uci.edu/ml/index.php)
 
-https://www.reddit.com/r/datasets/
+[Datasets Reddit](https://www.reddit.com/r/datasets/)
 
-https://www.reddit.com/r/datascience/
+[Data Science Reddit](https://www.reddit.com/r/datascience/)
 
-https://www.reddit.com/r/learnmachinelearning/
+[Learn Machine Learning Reddit](https://www.reddit.com/r/learnmachinelearning/)
 
-https://www.reddit.com/r/MachineLearning/
+[Machine Learning Reddit](https://www.reddit.com/r/MachineLearning/)
